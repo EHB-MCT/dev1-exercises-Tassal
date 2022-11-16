@@ -58,5 +58,6 @@
             "reset": false,
             "stash": false
         }
-    }
+    },
+    "DockerRun.DisableDockerrc": true
 }
