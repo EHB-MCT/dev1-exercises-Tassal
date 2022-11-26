@@ -1,6 +1,7 @@
 "use strict";
 import context from "./context.js";
 
+
 /** function that formats an hsl value based on parameters
  * @param {number} h the hue in degrees
  * @param {number} s the saturation in percentage

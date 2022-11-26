@@ -1,6 +1,6 @@
 "use strict";
-import context from "../scripts/context.js";
-import * as Utils from "../scripts/utils.js";
+import context from "./context.js";
+import * as Utils from "./utils.js";
 
 let width = context.canvas.width;
 let height = context.canvas.height;
@@ -24,4 +24,3 @@ function drawDots() {
 
 
 }
-
