@@ -11,6 +11,7 @@ let size;
 
 Setup();
 
+
 function Setup() {
     x = width / 2;
     y = height - 100;

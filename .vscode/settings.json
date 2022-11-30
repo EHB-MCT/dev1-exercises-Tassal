@@ -59,5 +59,6 @@
             "stash": false
         }
     },
-    "DockerRun.DisableDockerrc": true
+    "DockerRun.DisableDockerrc": true,
+    "liveServer.settings.port": 5501
 }
